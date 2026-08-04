@@ -4,14 +4,14 @@
     <title>Upcoming Movies</title>
     <link>https://www.themoviedb.org/movie/upcoming</link>
     <description>Upcoming movies, from TMDB</description>
-    <lastBuildDate>Tue, 04 Aug 2026 10:16:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 18:14:43 +0000</lastBuildDate>
     <ttl>720</ttl>
     
     <item>
       <title>Spider-Man: Brand New Day</title>
       <link>https://www.themoviedb.org/movie/969681</link>
       <guid isPermaLink="false">969681</guid>
-      <pubDate>Tue, 04 Aug 2026 10:16:13 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 18:14:43 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg" alt="Spider-Man: Brand New Day" /><br/>Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg" type="image/jpeg" />
     </item>
@@ -19,7 +19,7 @@
       <title>The End of Oak Street</title>
       <link>https://www.themoviedb.org/movie/1101383</link>
       <guid isPermaLink="false">1101383</guid>
-      <pubDate>Tue, 04 Aug 2026 10:16:13 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 18:14:43 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg" alt="The End of Oak Street" /><br/>After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg" type="image/jpeg" />
     </item>
@@ -27,7 +27,7 @@
       <title>Your Name.</title>
       <link>https://www.themoviedb.org/movie/372058</link>
       <guid isPermaLink="false">372058</guid>
-      <pubDate>Tue, 04 Aug 2026 10:16:13 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 18:14:43 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/q719jXXEzOoYaps6babgKnONONX.jpg" alt="Your Name." /><br/>High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki’s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/q719jXXEzOoYaps6babgKnONONX.jpg" type="image/jpeg" />
     </item>
@@ -35,31 +35,31 @@
       <title>La La Land</title>
       <link>https://www.themoviedb.org/movie/313369</link>
       <guid isPermaLink="false">313369</guid>
-      <pubDate>Tue, 04 Aug 2026 10:16:13 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 18:14:43 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg" alt="La La Land" /><br/>Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>All Wishes Come True!</title>
-      <link>https://www.themoviedb.org/movie/1633056</link>
-      <guid isPermaLink="false">1633056</guid>
-      <pubDate>Tue, 04 Aug 2026 10:16:13 +0000</pubDate>
-      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/wJ9FLxq3Q6D4ve8TUepYsr0PL3p.jpg" alt="All Wishes Come True!" /><br/>Eight grassroot mortals use their street smarts and hilarious schemes to defy powerful gods, earning their title as the "Eight Immortals."]]></description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/wJ9FLxq3Q6D4ve8TUepYsr0PL3p.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Train to Busan</title>
       <link>https://www.themoviedb.org/movie/396535</link>
       <guid isPermaLink="false">396535</guid>
-      <pubDate>Tue, 04 Aug 2026 10:16:13 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 18:14:43 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/vNVFt6dtcqnI7hqa6LFBUibuFiw.jpg" alt="Train to Busan" /><br/>When a zombie virus pushes Korea into a state of emergency, those trapped on an express train to Busan must fight for their own survival.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/vNVFt6dtcqnI7hqa6LFBUibuFiw.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>All Wishes Come True!</title>
+      <link>https://www.themoviedb.org/movie/1633056</link>
+      <guid isPermaLink="false">1633056</guid>
+      <pubDate>Tue, 04 Aug 2026 18:14:43 +0000</pubDate>
+      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/wJ9FLxq3Q6D4ve8TUepYsr0PL3p.jpg" alt="All Wishes Come True!" /><br/>Eight grassroot mortals use their street smarts and hilarious schemes to defy powerful gods, earning their title as the "Eight Immortals."]]></description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/wJ9FLxq3Q6D4ve8TUepYsr0PL3p.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>PAW Patrol: The Dino Movie</title>
       <link>https://www.themoviedb.org/movie/1185806</link>
       <guid isPermaLink="false">1185806</guid>
-      <pubDate>Tue, 04 Aug 2026 10:16:13 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 18:14:43 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/cxXSF4aY5N2cOGwaga5OnpPFHzk.jpg" alt="PAW Patrol: The Dino Movie" /><br/>The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/cxXSF4aY5N2cOGwaga5OnpPFHzk.jpg" type="image/jpeg" />
     </item>
@@ -67,23 +67,15 @@
       <title>Ice Cream Man</title>
       <link>https://www.themoviedb.org/movie/1477712</link>
       <guid isPermaLink="false">1477712</guid>
-      <pubDate>Tue, 04 Aug 2026 10:16:13 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 18:14:43 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/c987gxFjXqYOxZEZKcTkS1ONTWH.jpg" alt="Ice Cream Man" /><br/>An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/c987gxFjXqYOxZEZKcTkS1ONTWH.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>DC</title>
-      <link>https://www.themoviedb.org/movie/1479832</link>
-      <guid isPermaLink="false">1479832</guid>
-      <pubDate>Tue, 04 Aug 2026 10:16:13 +0000</pubDate>
-      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/7IqDtlkUNDnnR3wsXScEGSDV4RM.jpg" alt="DC" /><br/>Rebel Devadas joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stake in their fight.]]></description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/7IqDtlkUNDnnR3wsXScEGSDV4RM.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>One Night Only</title>
       <link>https://www.themoviedb.org/movie/1433367</link>
       <guid isPermaLink="false">1433367</guid>
-      <pubDate>Tue, 04 Aug 2026 10:16:13 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 18:14:43 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/9LGEqZvzI7Tsosf8srwEY48rZsD.jpg" alt="One Night Only" /><br/>Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/9LGEqZvzI7Tsosf8srwEY48rZsD.jpg" type="image/jpeg" />
     </item>
@@ -91,15 +83,31 @@
       <title>Mutiny</title>
       <link>https://www.themoviedb.org/movie/1288445</link>
       <guid isPermaLink="false">1288445</guid>
-      <pubDate>Tue, 04 Aug 2026 10:16:13 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 18:14:43 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg" alt="Mutiny" /><br/>After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>DC</title>
+      <link>https://www.themoviedb.org/movie/1479832</link>
+      <guid isPermaLink="false">1479832</guid>
+      <pubDate>Tue, 04 Aug 2026 18:14:43 +0000</pubDate>
+      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/7IqDtlkUNDnnR3wsXScEGSDV4RM.jpg" alt="DC" /><br/>Rebel Devadas joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stake in their fight.]]></description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/7IqDtlkUNDnnR3wsXScEGSDV4RM.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Teenage Sex and Death at Camp Miasma</title>
+      <link>https://www.themoviedb.org/movie/1240889</link>
+      <guid isPermaLink="false">1240889</guid>
+      <pubDate>Tue, 04 Aug 2026 18:14:43 +0000</pubDate>
+      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/nLsFnXifieSTqSeWxjXSS8RvaUZ.jpg" alt="Teenage Sex and Death at Camp Miasma" /><br/>After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.]]></description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/nLsFnXifieSTqSeWxjXSS8RvaUZ.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Insidious: Out of the Further</title>
       <link>https://www.themoviedb.org/movie/1291595</link>
       <guid isPermaLink="false">1291595</guid>
-      <pubDate>Tue, 04 Aug 2026 10:16:13 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 18:14:43 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg" alt="Insidious: Out of the Further" /><br/>Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg" type="image/jpeg" />
     </item>
@@ -107,47 +115,39 @@
       <title>Toxic</title>
       <link>https://www.themoviedb.org/movie/1213243</link>
       <guid isPermaLink="false">1213243</guid>
-      <pubDate>Tue, 04 Aug 2026 10:16:13 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 18:14:43 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/fJBAfLiNfovSAb6KjkIndpF3Sm7.jpg" alt="Toxic" /><br/>As Portuguese rule crumbles in Goa, Raya rises through betrayal and bloodshed to claim the city’s underworld, only to learn that power always demands a price.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/fJBAfLiNfovSAb6KjkIndpF3Sm7.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Teenage Sex and Death at Camp Miasma</title>
-      <link>https://www.themoviedb.org/movie/1240889</link>
-      <guid isPermaLink="false">1240889</guid>
-      <pubDate>Tue, 04 Aug 2026 10:16:13 +0000</pubDate>
-      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/nLsFnXifieSTqSeWxjXSS8RvaUZ.jpg" alt="Teenage Sex and Death at Camp Miasma" /><br/>After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.]]></description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/nLsFnXifieSTqSeWxjXSS8RvaUZ.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>The Magic Faraway Tree</title>
       <link>https://www.themoviedb.org/movie/1140521</link>
       <guid isPermaLink="false">1140521</guid>
-      <pubDate>Tue, 04 Aug 2026 10:16:13 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 18:14:43 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/udXvLxC5gAqN8SinemyFBEcHpTf.jpg" alt="The Magic Faraway Tree" /><br/>A modern family relocates to the countryside where the children discover a magical tree with eccentric residents. They're transported to fantastical lands, rekindling their family bond through adventures.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/udXvLxC5gAqN8SinemyFBEcHpTf.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Tony</title>
-      <link>https://www.themoviedb.org/movie/1329016</link>
-      <guid isPermaLink="false">1329016</guid>
-      <pubDate>Tue, 04 Aug 2026 10:16:13 +0000</pubDate>
-      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/3WN0JWwRI7oGH7Ni2R6poVWej05.jpg" alt="Tony" /><br/>A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.]]></description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/3WN0JWwRI7oGH7Ni2R6poVWej05.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Super Troopers 3</title>
       <link>https://www.themoviedb.org/movie/675871</link>
       <guid isPermaLink="false">675871</guid>
-      <pubDate>Tue, 04 Aug 2026 10:16:13 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 18:14:43 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/eV2Uhn8A93V4ELySlrBGvBuQJLj.jpg" alt="Super Troopers 3" /><br/>When Farva’s wildly over-the-top Indian engagement to Thorny’s sister spirals into chaos, the Super Troopers must navigate Thorny’s schemes to break up the relationship, while trying to crack a pernicious new drug ring  — all to save the day and maybe the wedding itself.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/eV2Uhn8A93V4ELySlrBGvBuQJLj.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Tony</title>
+      <link>https://www.themoviedb.org/movie/1329016</link>
+      <guid isPermaLink="false">1329016</guid>
+      <pubDate>Tue, 04 Aug 2026 18:14:43 +0000</pubDate>
+      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/3WN0JWwRI7oGH7Ni2R6poVWej05.jpg" alt="Tony" /><br/>A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.]]></description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/3WN0JWwRI7oGH7Ni2R6poVWej05.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Spa Weekend</title>
       <link>https://www.themoviedb.org/movie/1341138</link>
       <guid isPermaLink="false">1341138</guid>
-      <pubDate>Tue, 04 Aug 2026 10:16:13 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 18:14:43 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/d2Ga7lZI4c19YGcIH09vj9mDZKU.jpg" alt="Spa Weekend" /><br/>Four lifelong friends realize that somewhere between careers, relationships, families and everyday responsibilities, they have forgotten how to take care of themselves and each other. Burned out and overdue for a break, the women escape to a luxury spa retreat for what turns out to be an unforgettable weekend dedicated to fun, laughter, and a lot of really bad decisions.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/d2Ga7lZI4c19YGcIH09vj9mDZKU.jpg" type="image/jpeg" />
     </item>
@@ -155,17 +155,17 @@
       <title>Nimrods</title>
       <link>https://www.themoviedb.org/movie/1432474</link>
       <guid isPermaLink="false">1432474</guid>
-      <pubDate>Tue, 04 Aug 2026 10:16:13 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 18:14:43 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/tDTfqu5XJbtUwstRRnWaUcoHxM2.jpg" alt="Nimrods" /><br/>Three friends journey from Kansas City to Los Angeles, mistakenly believing that their band is opening for Green Day on New Year’s Eve.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/tDTfqu5XJbtUwstRRnWaUcoHxM2.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Wet Hot American Summer</title>
-      <link>https://www.themoviedb.org/movie/2171</link>
-      <guid isPermaLink="false">2171</guid>
-      <pubDate>Tue, 04 Aug 2026 10:16:13 +0000</pubDate>
-      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/skKRPj1Cdsxqzn8BwKxvNV20rRW.jpg" alt="Wet Hot American Summer" /><br/>It's the last day of Camp Firewood's season, but there's still time for the big talent show, a little romance… and for everyone to be wiped out by the piece of NASA's Skylab that's hurtling toward Earth.]]></description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/skKRPj1Cdsxqzn8BwKxvNV20rRW.jpg" type="image/jpeg" />
+      <title>Tales from Earthsea</title>
+      <link>https://www.themoviedb.org/movie/37933</link>
+      <guid isPermaLink="false">37933</guid>
+      <pubDate>Tue, 04 Aug 2026 18:14:43 +0000</pubDate>
+      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/y0VnJt4eRPMjA1hpJ8f1EFoVaSf.jpg" alt="Tales from Earthsea" /><br/>As crops dwindle and dragons reappear, mankind stands on the verge of total chaos. Lord Archmage Sparrowhawk, a powerful wizard, and Arren, a troubled young prince, search for the force behind this mysterious imbalance that threatens to destroy the land of Earthsea.]]></description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/y0VnJt4eRPMjA1hpJ8f1EFoVaSf.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
