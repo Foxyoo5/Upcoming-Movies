@@ -4,14 +4,14 @@
     <title>Upcoming Movies</title>
     <link>https://www.themoviedb.org/movie/upcoming</link>
     <description>Upcoming movies, from TMDB</description>
-    <lastBuildDate>Mon, 17 Aug 2026 01:39:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 12:53:45 +0000</lastBuildDate>
     <ttl>720</ttl>
     
     <item>
       <title>Colony</title>
       <link>https://www.themoviedb.org/movie/1375646</link>
       <guid isPermaLink="false">1375646</guid>
-      <pubDate>Mon, 17 Aug 2026 01:39:33 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2026 12:53:45 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg" alt="Colony" /><br/>Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg" type="image/jpeg" />
     </item>
@@ -19,7 +19,7 @@
       <title>Fall 2: Deadpoint</title>
       <link>https://www.themoviedb.org/movie/1101412</link>
       <guid isPermaLink="false">1101412</guid>
-      <pubDate>Mon, 17 Aug 2026 01:39:33 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2026 12:53:45 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/p73G56bJGPa5y52cyqWscHR6NnN.jpg" alt="Fall 2: Deadpoint" /><br/>On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/p73G56bJGPa5y52cyqWscHR6NnN.jpg" type="image/jpeg" />
     </item>
@@ -27,15 +27,23 @@
       <title>Teenage Sex and Death at Camp Miasma</title>
       <link>https://www.themoviedb.org/movie/1240889</link>
       <guid isPermaLink="false">1240889</guid>
-      <pubDate>Mon, 17 Aug 2026 01:39:33 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2026 12:53:45 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/5Cz1EJOKpZ8hqvBNZYF9C2zTB2T.jpg" alt="Teenage Sex and Death at Camp Miasma" /><br/>After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/5Cz1EJOKpZ8hqvBNZYF9C2zTB2T.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mutiny</title>
+      <link>https://www.themoviedb.org/movie/1288445</link>
+      <guid isPermaLink="false">1288445</guid>
+      <pubDate>Mon, 17 Aug 2026 12:53:45 +0000</pubDate>
+      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/lsYSWqj6i2iyUDJoLA2cazFJYlC.jpg" alt="Mutiny" /><br/>After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.]]></description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/lsYSWqj6i2iyUDJoLA2cazFJYlC.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Cars</title>
       <link>https://www.themoviedb.org/movie/920</link>
       <guid isPermaLink="false">920</guid>
-      <pubDate>Mon, 17 Aug 2026 01:39:33 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2026 12:53:45 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg" alt="Cars" /><br/>Lightning McQueen, a hotshot rookie race car driven to succeed, discovers that life is about the journey, not the finish line, when he finds himself unexpectedly detoured in the sleepy Route 66 town of Radiator Springs. On route across the country to the big Piston Cup Championship in California to compete against two seasoned pros, McQueen gets to know the town's offbeat characters.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg" type="image/jpeg" />
     </item>
@@ -43,39 +51,31 @@
       <title>Coyote vs. Acme</title>
       <link>https://www.themoviedb.org/movie/1204680</link>
       <guid isPermaLink="false">1204680</guid>
-      <pubDate>Mon, 17 Aug 2026 01:39:33 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2026 12:53:45 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg" alt="Coyote vs. Acme" /><br/>After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Mutiny</title>
-      <link>https://www.themoviedb.org/movie/1288445</link>
-      <guid isPermaLink="false">1288445</guid>
-      <pubDate>Mon, 17 Aug 2026 01:39:33 +0000</pubDate>
-      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/lsYSWqj6i2iyUDJoLA2cazFJYlC.jpg" alt="Mutiny" /><br/>After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.]]></description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/lsYSWqj6i2iyUDJoLA2cazFJYlC.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Hope</title>
-      <link>https://www.themoviedb.org/movie/1058424</link>
-      <guid isPermaLink="false">1058424</guid>
-      <pubDate>Mon, 17 Aug 2026 01:39:33 +0000</pubDate>
-      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/bcK5naYzzfY0JBCgrPrsrbV6NO1.jpg" alt="Hope" /><br/>In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.]]></description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/bcK5naYzzfY0JBCgrPrsrbV6NO1.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Insidious: Out of the Further</title>
       <link>https://www.themoviedb.org/movie/1291595</link>
       <guid isPermaLink="false">1291595</guid>
-      <pubDate>Mon, 17 Aug 2026 01:39:33 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2026 12:53:45 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg" alt="Insidious: Out of the Further" /><br/>Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Hope</title>
+      <link>https://www.themoviedb.org/movie/1058424</link>
+      <guid isPermaLink="false">1058424</guid>
+      <pubDate>Mon, 17 Aug 2026 12:53:45 +0000</pubDate>
+      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/bcK5naYzzfY0JBCgrPrsrbV6NO1.jpg" alt="Hope" /><br/>In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.]]></description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/bcK5naYzzfY0JBCgrPrsrbV6NO1.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Dear You</title>
       <link>https://www.themoviedb.org/movie/1671548</link>
       <guid isPermaLink="false">1671548</guid>
-      <pubDate>Mon, 17 Aug 2026 01:39:33 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2026 12:53:45 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/rjmhzdVS3Ia535pFawju857e2Na.jpg" alt="Dear You" /><br/>Xiaowei travels to Thailand to find his "billionaire grandfather" who is out of contact due to debt problems, but unexpectedly find the one who has been corresponding with his grandmother for years is not her husband.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/rjmhzdVS3Ia535pFawju857e2Na.jpg" type="image/jpeg" />
     </item>
@@ -83,7 +83,7 @@
       <title>The Dog Stars</title>
       <link>https://www.themoviedb.org/movie/1384216</link>
       <guid isPermaLink="false">1384216</guid>
-      <pubDate>Mon, 17 Aug 2026 01:39:33 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2026 12:53:45 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/A7i16oDi03qrKep5pBfuTWNUTb.jpg" alt="The Dog Stars" /><br/>After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/A7i16oDi03qrKep5pBfuTWNUTb.jpg" type="image/jpeg" />
     </item>
@@ -91,7 +91,7 @@
       <title>Tony</title>
       <link>https://www.themoviedb.org/movie/1329016</link>
       <guid isPermaLink="false">1329016</guid>
-      <pubDate>Mon, 17 Aug 2026 01:39:33 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2026 12:53:45 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/3WN0JWwRI7oGH7Ni2R6poVWej05.jpg" alt="Tony" /><br/>A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/3WN0JWwRI7oGH7Ni2R6poVWej05.jpg" type="image/jpeg" />
     </item>
@@ -99,7 +99,7 @@
       <title>Akira</title>
       <link>https://www.themoviedb.org/movie/149</link>
       <guid isPermaLink="false">149</guid>
-      <pubDate>Mon, 17 Aug 2026 01:39:33 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2026 12:53:45 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg" alt="Akira" /><br/>A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg" type="image/jpeg" />
     </item>
@@ -107,7 +107,7 @@
       <title>Toxic: A Fairy Tale For Grown-ups</title>
       <link>https://www.themoviedb.org/movie/1213243</link>
       <guid isPermaLink="false">1213243</guid>
-      <pubDate>Mon, 17 Aug 2026 01:39:33 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2026 12:53:45 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/uPDutjavZO22SbIngBezk173vSb.jpg" alt="Toxic: A Fairy Tale For Grown-ups" /><br/>As Portuguese rule crumbles in Goa, Raya rises through betrayal and bloodshed to claim the city’s underworld, only to learn that power always demands a price.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/uPDutjavZO22SbIngBezk173vSb.jpg" type="image/jpeg" />
     </item>
@@ -115,7 +115,7 @@
       <title>The Rivals of Amziah King</title>
       <link>https://www.themoviedb.org/movie/1124142</link>
       <guid isPermaLink="false">1124142</guid>
-      <pubDate>Mon, 17 Aug 2026 01:39:33 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2026 12:53:45 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/3iVDCDS1VwHIm95PjWEPwsfdhaf.jpg" alt="The Rivals of Amziah King" /><br/>Amziah King, beekeeper, musician, and anchor of his community, reunites with former foster daughter Kateri after many years apart, and fends off threats to his honey business.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/3iVDCDS1VwHIm95PjWEPwsfdhaf.jpg" type="image/jpeg" />
     </item>
@@ -123,15 +123,15 @@
       <title>Spa Weekend</title>
       <link>https://www.themoviedb.org/movie/1341138</link>
       <guid isPermaLink="false">1341138</guid>
-      <pubDate>Mon, 17 Aug 2026 01:39:33 +0000</pubDate>
-      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/i3I19SbOyz6AIl0cSYdyVJRucMr.jpg" alt="Spa Weekend" /><br/>Four lifelong friends realize that somewhere between careers, relationships, families, and everyday responsibilities, they’ve forgotten how to take care of themselves—and each other. Burned out and overdue for a break, the women escape to a luxury spa retreat for an unforgettable weekend dedicated to fun, laughter, and a lot of really bad decisions.]]></description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/i3I19SbOyz6AIl0cSYdyVJRucMr.jpg" type="image/jpeg" />
+      <pubDate>Mon, 17 Aug 2026 12:53:45 +0000</pubDate>
+      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/7LIP05jWWwLPObSOAVbX7xkWPQ0.jpg" alt="Spa Weekend" /><br/>Four lifelong friends realize that somewhere between careers, relationships, families, and everyday responsibilities, they’ve forgotten how to take care of themselves—and each other. Burned out and overdue for a break, the women escape to a luxury spa retreat for an unforgettable weekend dedicated to fun, laughter, and a lot of really bad decisions.]]></description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/7LIP05jWWwLPObSOAVbX7xkWPQ0.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Tom and Jerry: Forbidden Compass</title>
       <link>https://www.themoviedb.org/movie/1497970</link>
       <guid isPermaLink="false">1497970</guid>
-      <pubDate>Mon, 17 Aug 2026 01:39:33 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2026 12:53:45 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/5qttWFjsO62k88civZaDMHiBTvy.jpg" alt="Tom and Jerry: Forbidden Compass" /><br/>During a chase inside a museum, Tom and Jerry find an ancient magical compass and end up being transported through time. Lost in a distant era, they will need to work together to find a way back home.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/5qttWFjsO62k88civZaDMHiBTvy.jpg" type="image/jpeg" />
     </item>
@@ -139,7 +139,7 @@
       <title>The Magic Faraway Tree</title>
       <link>https://www.themoviedb.org/movie/1140521</link>
       <guid isPermaLink="false">1140521</guid>
-      <pubDate>Mon, 17 Aug 2026 01:39:33 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2026 12:53:45 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/udXvLxC5gAqN8SinemyFBEcHpTf.jpg" alt="The Magic Faraway Tree" /><br/>A modern family relocates to the countryside where the children discover a magical tree with eccentric residents. They're transported to fantastical lands, rekindling their family bond through adventures.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/udXvLxC5gAqN8SinemyFBEcHpTf.jpg" type="image/jpeg" />
     </item>
@@ -147,7 +147,7 @@
       <title>The Nutty Professor</title>
       <link>https://www.themoviedb.org/movie/9327</link>
       <guid isPermaLink="false">9327</guid>
-      <pubDate>Mon, 17 Aug 2026 01:39:33 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2026 12:53:45 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/fMtb5aZoLRNbMnCkatFsTmPRfl5.jpg" alt="The Nutty Professor" /><br/>When beautiful Carla Purty joins the university faculty, genetic professor Dr. Sherman Klump grows desperate to whittle his 400-pound frame down to size and win her heart. So, with one swig of his experimental fat-reducing serum, Sherman becomes 'Buddy Love', a fast-talking, pumped-up, plumped down Don Juan.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/fMtb5aZoLRNbMnCkatFsTmPRfl5.jpg" type="image/jpeg" />
     </item>
@@ -155,7 +155,7 @@
       <title>Finding Emily</title>
       <link>https://www.themoviedb.org/movie/1339588</link>
       <guid isPermaLink="false">1339588</guid>
-      <pubDate>Mon, 17 Aug 2026 01:39:33 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2026 12:53:45 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/jIjj0H2kobklKcyNHyrDj6WD2xw.jpg" alt="Finding Emily" /><br/>When a lovesick musician is given the wrong number for his dream girl, he teams up with a driven psychology student to find her. Together, they spark a hilarious campus-wide frenzy that tests their own hearts and ambitions along the way.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/jIjj0H2kobklKcyNHyrDj6WD2xw.jpg" type="image/jpeg" />
     </item>
@@ -163,7 +163,7 @@
       <title>Idiots</title>
       <link>https://www.themoviedb.org/movie/445466</link>
       <guid isPermaLink="false">445466</guid>
-      <pubDate>Mon, 17 Aug 2026 01:39:33 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2026 12:53:45 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/l1JFNC1SdgyXVr7BaD5ehaYBvOC.jpg" alt="Idiots" /><br/>When two unqualified bozos are hired to transfer a rich teen to rehab, their straightforward gig quickly spirals into dangerous mayhem.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/l1JFNC1SdgyXVr7BaD5ehaYBvOC.jpg" type="image/jpeg" />
     </item>
