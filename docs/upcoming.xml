@@ -4,14 +4,14 @@
     <title>Upcoming Movies</title>
     <link>https://www.themoviedb.org/movie/upcoming</link>
     <description>Upcoming movies, from TMDB</description>
-    <lastBuildDate>Sat, 29 Aug 2026 16:31:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 04:49:24 +0000</lastBuildDate>
     <ttl>720</ttl>
     
     <item>
       <title>Fall 2: Deadpoint</title>
       <link>https://www.themoviedb.org/movie/1101412</link>
       <guid isPermaLink="false">1101412</guid>
-      <pubDate>Sat, 29 Aug 2026 16:31:49 +0000</pubDate>
+      <pubDate>Sun, 30 Aug 2026 04:49:24 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/p73G56bJGPa5y52cyqWscHR6NnN.jpg" alt="Fall 2: Deadpoint" /><br/>On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/p73G56bJGPa5y52cyqWscHR6NnN.jpg" type="image/jpeg" />
     </item>
@@ -19,7 +19,7 @@
       <title>Hope</title>
       <link>https://www.themoviedb.org/movie/1058424</link>
       <guid isPermaLink="false">1058424</guid>
-      <pubDate>Sat, 29 Aug 2026 16:31:49 +0000</pubDate>
+      <pubDate>Sun, 30 Aug 2026 04:49:24 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/bcK5naYzzfY0JBCgrPrsrbV6NO1.jpg" alt="Hope" /><br/>In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/bcK5naYzzfY0JBCgrPrsrbV6NO1.jpg" type="image/jpeg" />
     </item>
@@ -27,7 +27,7 @@
       <title>Cars</title>
       <link>https://www.themoviedb.org/movie/920</link>
       <guid isPermaLink="false">920</guid>
-      <pubDate>Sat, 29 Aug 2026 16:31:49 +0000</pubDate>
+      <pubDate>Sun, 30 Aug 2026 04:49:24 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg" alt="Cars" /><br/>Lightning McQueen, a hotshot rookie race car driven to succeed, discovers that life is about the journey, not the finish line, when he finds himself unexpectedly detoured in the sleepy Route 66 town of Radiator Springs. On route across the country to the big Piston Cup Championship in California to compete against two seasoned pros, McQueen gets to know the town's offbeat characters.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg" type="image/jpeg" />
     </item>
@@ -35,31 +35,15 @@
       <title>The Passion of the Christ</title>
       <link>https://www.themoviedb.org/movie/615</link>
       <guid isPermaLink="false">615</guid>
-      <pubDate>Sat, 29 Aug 2026 16:31:49 +0000</pubDate>
+      <pubDate>Sun, 30 Aug 2026 04:49:24 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/rBM5o2HpmCfDejuIPybI09tkY3V.jpg" alt="The Passion of the Christ" /><br/>A graphic portrayal of the last twelve hours of Jesus of Nazareth's life.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/rBM5o2HpmCfDejuIPybI09tkY3V.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Akira</title>
-      <link>https://www.themoviedb.org/movie/149</link>
-      <guid isPermaLink="false">149</guid>
-      <pubDate>Sat, 29 Aug 2026 16:31:49 +0000</pubDate>
-      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg" alt="Akira" /><br/>A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.]]></description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Ghost in the Shell</title>
-      <link>https://www.themoviedb.org/movie/9323</link>
-      <guid isPermaLink="false">9323</guid>
-      <pubDate>Sat, 29 Aug 2026 16:31:49 +0000</pubDate>
-      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/9gC88zYUBARRSThcG93MvW14sqx.jpg" alt="Ghost in the Shell" /><br/>In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.]]></description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/9gC88zYUBARRSThcG93MvW14sqx.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Resident Evil</title>
       <link>https://www.themoviedb.org/movie/1423191</link>
       <guid isPermaLink="false">1423191</guid>
-      <pubDate>Sat, 29 Aug 2026 16:31:49 +0000</pubDate>
+      <pubDate>Sun, 30 Aug 2026 04:49:24 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/guq5cJ43v0qcMtLqrYHe5P9fgFM.jpg" alt="Resident Evil" /><br/>Bryan, a medical courier, unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/guq5cJ43v0qcMtLqrYHe5P9fgFM.jpg" type="image/jpeg" />
     </item>
@@ -67,15 +51,31 @@
       <title>Practical Magic 2</title>
       <link>https://www.themoviedb.org/movie/1302904</link>
       <guid isPermaLink="false">1302904</guid>
-      <pubDate>Sat, 29 Aug 2026 16:31:49 +0000</pubDate>
+      <pubDate>Sun, 30 Aug 2026 04:49:24 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/7jCV8dkRFK3DGJ4dTqlvrMTFPwZ.jpg" alt="Practical Magic 2" /><br/>The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/7jCV8dkRFK3DGJ4dTqlvrMTFPwZ.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Akira</title>
+      <link>https://www.themoviedb.org/movie/149</link>
+      <guid isPermaLink="false">149</guid>
+      <pubDate>Sun, 30 Aug 2026 04:49:24 +0000</pubDate>
+      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg" alt="Akira" /><br/>A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.]]></description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Ghost in the Shell</title>
+      <link>https://www.themoviedb.org/movie/9323</link>
+      <guid isPermaLink="false">9323</guid>
+      <pubDate>Sun, 30 Aug 2026 04:49:24 +0000</pubDate>
+      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/9gC88zYUBARRSThcG93MvW14sqx.jpg" alt="Ghost in the Shell" /><br/>In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.]]></description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/9gC88zYUBARRSThcG93MvW14sqx.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Runner</title>
       <link>https://www.themoviedb.org/movie/1377237</link>
       <guid isPermaLink="false">1377237</guid>
-      <pubDate>Sat, 29 Aug 2026 16:31:49 +0000</pubDate>
+      <pubDate>Sun, 30 Aug 2026 04:49:24 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg" alt="Runner" /><br/>A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg" type="image/jpeg" />
     </item>
@@ -83,7 +83,7 @@
       <title>Dear You</title>
       <link>https://www.themoviedb.org/movie/1671548</link>
       <guid isPermaLink="false">1671548</guid>
-      <pubDate>Sat, 29 Aug 2026 16:31:49 +0000</pubDate>
+      <pubDate>Sun, 30 Aug 2026 04:49:24 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/rjmhzdVS3Ia535pFawju857e2Na.jpg" alt="Dear You" /><br/>Xiaowei travels to Thailand to find his "billionaire grandfather" who is out of contact due to debt problems, but unexpectedly find the one who has been corresponding with his grandmother for years is not her husband.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/rjmhzdVS3Ia535pFawju857e2Na.jpg" type="image/jpeg" />
     </item>
@@ -91,55 +91,63 @@
       <title>Tom and Jerry: Forbidden Compass</title>
       <link>https://www.themoviedb.org/movie/1497970</link>
       <guid isPermaLink="false">1497970</guid>
-      <pubDate>Sat, 29 Aug 2026 16:31:49 +0000</pubDate>
+      <pubDate>Sun, 30 Aug 2026 04:49:24 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/5qttWFjsO62k88civZaDMHiBTvy.jpg" alt="Tom and Jerry: Forbidden Compass" /><br/>During a chase inside a museum, Tom and Jerry find an ancient magical compass and end up being transported through time. Lost in a distant era, they will need to work together to find a way back home.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/5qttWFjsO62k88civZaDMHiBTvy.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>The Nutty Professor</title>
-      <link>https://www.themoviedb.org/movie/9327</link>
-      <guid isPermaLink="false">9327</guid>
-      <pubDate>Sat, 29 Aug 2026 16:31:49 +0000</pubDate>
-      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/fMtb5aZoLRNbMnCkatFsTmPRfl5.jpg" alt="The Nutty Professor" /><br/>When beautiful Carla Purty joins the university faculty, genetic professor Dr. Sherman Klump grows desperate to whittle his 400-pound frame down to size and win her heart. So, with one swig of his experimental fat-reducing serum, Sherman becomes 'Buddy Love', a fast-talking, pumped-up, plumped down Don Juan.]]></description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/fMtb5aZoLRNbMnCkatFsTmPRfl5.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>The Master and Margarita</title>
-      <link>https://www.themoviedb.org/movie/586353</link>
-      <guid isPermaLink="false">586353</guid>
-      <pubDate>Sat, 29 Aug 2026 16:31:49 +0000</pubDate>
-      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/jw172VAlwfYtWNWvhVrXZPW3jGT.jpg" alt="The Master and Margarita" /><br/>A struggling writer in 1930s Soviet Moscow finds his life transformed when a mysterious professor arrives with his bizarre entourage, including a wisecracking trickster, a deadly assassin, a vampire maid, and a giant talking black cat, turning the city upside down while exposing the hypocrisy of those in power.]]></description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/jw172VAlwfYtWNWvhVrXZPW3jGT.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>The Uprising</title>
-      <link>https://www.themoviedb.org/movie/977942</link>
-      <guid isPermaLink="false">977942</guid>
-      <pubDate>Sat, 29 Aug 2026 16:31:49 +0000</pubDate>
-      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg" alt="The Uprising" /><br/>As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.]]></description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>The Transformers: The Movie</title>
       <link>https://www.themoviedb.org/movie/1857</link>
       <guid isPermaLink="false">1857</guid>
-      <pubDate>Sat, 29 Aug 2026 16:31:49 +0000</pubDate>
+      <pubDate>Sun, 30 Aug 2026 04:49:24 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/xJ5W0mOAWCVaXmU0pBZh4NjSRv2.jpg" alt="The Transformers: The Movie" /><br/>The Autobots must stop a colossal planet-consuming robot who goes after the Autobot Matrix of Leadership. At the same time, they must defend themselves against an all-out attack from the Decepticons.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/xJ5W0mOAWCVaXmU0pBZh4NjSRv2.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>The Uprising</title>
+      <link>https://www.themoviedb.org/movie/977942</link>
+      <guid isPermaLink="false">977942</guid>
+      <pubDate>Sun, 30 Aug 2026 04:49:24 +0000</pubDate>
+      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg" alt="The Uprising" /><br/>As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.]]></description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>The Nutty Professor</title>
+      <link>https://www.themoviedb.org/movie/9327</link>
+      <guid isPermaLink="false">9327</guid>
+      <pubDate>Sun, 30 Aug 2026 04:49:24 +0000</pubDate>
+      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/fMtb5aZoLRNbMnCkatFsTmPRfl5.jpg" alt="The Nutty Professor" /><br/>When beautiful Carla Purty joins the university faculty, genetic professor Dr. Sherman Klump grows desperate to whittle his 400-pound frame down to size and win her heart. So, with one swig of his experimental fat-reducing serum, Sherman becomes 'Buddy Love', a fast-talking, pumped-up, plumped down Don Juan.]]></description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/fMtb5aZoLRNbMnCkatFsTmPRfl5.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Onslaught</title>
       <link>https://www.themoviedb.org/movie/1284046</link>
       <guid isPermaLink="false">1284046</guid>
-      <pubDate>Sat, 29 Aug 2026 16:31:49 +0000</pubDate>
+      <pubDate>Sun, 30 Aug 2026 04:49:24 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/cOGtvhc6Ij9KvzM6jZsfQyg0B0O.jpg" alt="Onslaught" /><br/>When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/cOGtvhc6Ij9KvzM6jZsfQyg0B0O.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>The Master and Margarita</title>
+      <link>https://www.themoviedb.org/movie/586353</link>
+      <guid isPermaLink="false">586353</guid>
+      <pubDate>Sun, 30 Aug 2026 04:49:24 +0000</pubDate>
+      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/jw172VAlwfYtWNWvhVrXZPW3jGT.jpg" alt="The Master and Margarita" /><br/>A struggling writer in 1930s Soviet Moscow finds his life transformed when a mysterious professor arrives with his bizarre entourage, including a wisecracking trickster, a deadly assassin, a vampire maid, and a giant talking black cat, turning the city upside down while exposing the hypocrisy of those in power.]]></description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/jw172VAlwfYtWNWvhVrXZPW3jGT.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Oasis: Don't Look Back in Anger</title>
+      <link>https://www.themoviedb.org/movie/1447853</link>
+      <guid isPermaLink="false">1447853</guid>
+      <pubDate>Sun, 30 Aug 2026 04:49:24 +0000</pubDate>
+      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/nuNfPuFZKtkrglYnz2F9weQm3Ng.jpg" alt="Oasis: Don't Look Back in Anger" /><br/>Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom.]]></description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/nuNfPuFZKtkrglYnz2F9weQm3Ng.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>By Any Means</title>
       <link>https://www.themoviedb.org/movie/1380417</link>
       <guid isPermaLink="false">1380417</guid>
-      <pubDate>Sat, 29 Aug 2026 16:31:49 +0000</pubDate>
+      <pubDate>Sun, 30 Aug 2026 04:49:24 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/f4hdIed8vh10O8TkQ1CkHS8MQ3G.jpg" alt="By Any Means" /><br/>A young Black FBI agent is sent into 1960s Mississippi to investigate a wave of brutal killings targeting civil rights leaders. Forced to work alongside notorious mafia hitman Greg Scarpa, he finds himself pulled into a deadly hunt where justice and vengeance begin to blur.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/f4hdIed8vh10O8TkQ1CkHS8MQ3G.jpg" type="image/jpeg" />
     </item>
@@ -147,25 +155,17 @@
       <title>Sunny Dancer</title>
       <link>https://www.themoviedb.org/movie/1280015</link>
       <guid isPermaLink="false">1280015</guid>
-      <pubDate>Sat, 29 Aug 2026 16:31:49 +0000</pubDate>
+      <pubDate>Sun, 30 Aug 2026 04:49:24 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/mXdejPfToSVFlEzv1QYoIh2N53e.jpg" alt="Sunny Dancer" /><br/>Ivy is a teenager in remission from cancer, whose mum and dad insist she attend Children Run Free Camp, a summer retreat for young adults affected by cancer. However, as Ivy is reluctantly dragged through camp experience, she discovers new feelings with new friends.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/mXdejPfToSVFlEzv1QYoIh2N53e.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Oasis: Don't Look Back in Anger</title>
-      <link>https://www.themoviedb.org/movie/1447853</link>
-      <guid isPermaLink="false">1447853</guid>
-      <pubDate>Sat, 29 Aug 2026 16:31:49 +0000</pubDate>
-      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/nuNfPuFZKtkrglYnz2F9weQm3Ng.jpg" alt="Oasis: Don't Look Back in Anger" /><br/>Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom.]]></description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/nuNfPuFZKtkrglYnz2F9weQm3Ng.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Shaun the Sheep: The Beast of Mossy Bottom</title>
-      <link>https://www.themoviedb.org/movie/1477104</link>
-      <guid isPermaLink="false">1477104</guid>
-      <pubDate>Sat, 29 Aug 2026 16:31:49 +0000</pubDate>
-      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg" alt="Shaun the Sheep: The Beast of Mossy Bottom" /><br/>On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go wrong when a wild beast appears in the woods.]]></description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg" type="image/jpeg" />
+      <title>The Fix</title>
+      <link>https://www.themoviedb.org/movie/1228834</link>
+      <guid isPermaLink="false">1228834</guid>
+      <pubDate>Sun, 30 Aug 2026 04:49:24 +0000</pubDate>
+      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/yopXjun3ICFfJci2ukcEzceZjUs.jpg" alt="The Fix" /><br/>Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.]]></description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/yopXjun3ICFfJci2ukcEzceZjUs.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
