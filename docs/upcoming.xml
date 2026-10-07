@@ -4,38 +4,38 @@
     <title>Upcoming Movies</title>
     <link>https://www.themoviedb.org/movie/upcoming</link>
     <description>Upcoming movies, from TMDB</description>
-    <lastBuildDate>Wed, 07 Oct 2026 05:20:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 18:43:43 +0000</lastBuildDate>
     <ttl>720</ttl>
     
     <item>
       <title>The Mongoose</title>
       <link>https://www.themoviedb.org/movie/1294189</link>
       <guid isPermaLink="false">1294189</guid>
-      <pubDate>Wed, 07 Oct 2026 05:20:58 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 18:43:43 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg" alt="The Mongoose" /><br/>A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Possible Love</title>
-      <link>https://www.themoviedb.org/movie/1483525</link>
-      <guid isPermaLink="false">1483525</guid>
-      <pubDate>Wed, 07 Oct 2026 05:20:58 +0000</pubDate>
-      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/dLz9yHeLw4x4sD0WTSNi7HuK2ke.jpg" alt="Possible Love" /><br/>A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires.]]></description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/dLz9yHeLw4x4sD0WTSNi7HuK2ke.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Street Fighter</title>
       <link>https://www.themoviedb.org/movie/1153576</link>
       <guid isPermaLink="false">1153576</guid>
-      <pubDate>Wed, 07 Oct 2026 05:20:58 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 18:43:43 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg" alt="Street Fighter" /><br/>In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Possible Love</title>
+      <link>https://www.themoviedb.org/movie/1483525</link>
+      <guid isPermaLink="false">1483525</guid>
+      <pubDate>Wed, 07 Oct 2026 18:43:43 +0000</pubDate>
+      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/dLz9yHeLw4x4sD0WTSNi7HuK2ke.jpg" alt="Possible Love" /><br/>A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires.]]></description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/dLz9yHeLw4x4sD0WTSNi7HuK2ke.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Clayface</title>
       <link>https://www.themoviedb.org/movie/1400940</link>
       <guid isPermaLink="false">1400940</guid>
-      <pubDate>Wed, 07 Oct 2026 05:20:58 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 18:43:43 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg" alt="Clayface" /><br/>Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg" type="image/jpeg" />
     </item>
@@ -43,7 +43,7 @@
       <title>American Psycho</title>
       <link>https://www.themoviedb.org/movie/1359</link>
       <guid isPermaLink="false">1359</guid>
-      <pubDate>Wed, 07 Oct 2026 05:20:58 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 18:43:43 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg" alt="American Psycho" /><br/>A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he escalates deeper into his illogical, gratuitous fantasies.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg" type="image/jpeg" />
     </item>
@@ -51,7 +51,7 @@
       <title>V for Vendetta</title>
       <link>https://www.themoviedb.org/movie/752</link>
       <guid isPermaLink="false">752</guid>
-      <pubDate>Wed, 07 Oct 2026 05:20:58 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 18:43:43 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/1avD1JeaRiJX5M4ahPdZPypGoGN.jpg" alt="V for Vendetta" /><br/>In a world in which Great Britain has become a fascist state, a masked vigilante known only as “V” conducts guerrilla warfare against the oppressive British government. When V rescues a young woman from the secret police, he finds in her an ally with whom he can continue his fight to free the people of Britain.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/1avD1JeaRiJX5M4ahPdZPypGoGN.jpg" type="image/jpeg" />
     </item>
@@ -59,7 +59,7 @@
       <title>Training Day</title>
       <link>https://www.themoviedb.org/movie/2034</link>
       <guid isPermaLink="false">2034</guid>
-      <pubDate>Wed, 07 Oct 2026 05:20:58 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 18:43:43 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/bUeiwBQdupBLQthMCHKV7zv56uv.jpg" alt="Training Day" /><br/>On his first day on the job as a narcotics officer, a rookie cop works with a rogue detective who isn't what he appears.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/bUeiwBQdupBLQthMCHKV7zv56uv.jpg" type="image/jpeg" />
     </item>
@@ -67,63 +67,55 @@
       <title>LA BOLA NEGRA</title>
       <link>https://www.themoviedb.org/movie/1422041</link>
       <guid isPermaLink="false">1422041</guid>
-      <pubDate>Wed, 07 Oct 2026 05:20:58 +0000</pubDate>
-      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/l76qrRUs1e1Th4CNeQIQ10TjHOl.jpg" alt="LA BOLA NEGRA" /><br/>The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.]]></description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/l76qrRUs1e1Th4CNeQIQ10TjHOl.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Whalefall</title>
-      <link>https://www.themoviedb.org/movie/1255833</link>
-      <guid isPermaLink="false">1255833</guid>
-      <pubDate>Wed, 07 Oct 2026 05:20:58 +0000</pubDate>
-      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg" alt="Whalefall" /><br/>Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.]]></description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg" type="image/jpeg" />
+      <pubDate>Wed, 07 Oct 2026 18:43:43 +0000</pubDate>
+      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/7HwFQTMghL6HOvzEnXYUvyuZXeh.jpg" alt="LA BOLA NEGRA" /><br/>The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.]]></description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/7HwFQTMghL6HOvzEnXYUvyuZXeh.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Jailer 2</title>
       <link>https://www.themoviedb.org/movie/1234139</link>
       <guid isPermaLink="false">1234139</guid>
-      <pubDate>Wed, 07 Oct 2026 05:20:58 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 18:43:43 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/uPNAz3mYu6MDh2kA0V6qT2m412T.jpg" alt="Jailer 2" /><br/>Following the events of "Jailer",  former ruthless police officer Muthuvel Pandian must come face-to-face with the consequences of his actions against the antique mafia.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/uPNAz3mYu6MDh2kA0V6qT2m412T.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Sense and Sensibility</title>
-      <link>https://www.themoviedb.org/movie/1503762</link>
-      <guid isPermaLink="false">1503762</guid>
-      <pubDate>Wed, 07 Oct 2026 05:20:58 +0000</pubDate>
-      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg" alt="Sense and Sensibility" /><br/>A charming, witty, and deeply relatable story of love and sisterhood.]]></description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg" type="image/jpeg" />
+      <title>Whalefall</title>
+      <link>https://www.themoviedb.org/movie/1255833</link>
+      <guid isPermaLink="false">1255833</guid>
+      <pubDate>Wed, 07 Oct 2026 18:43:43 +0000</pubDate>
+      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg" alt="Whalefall" /><br/>Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.]]></description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Pet Sematary</title>
       <link>https://www.themoviedb.org/movie/8913</link>
       <guid isPermaLink="false">8913</guid>
-      <pubDate>Wed, 07 Oct 2026 05:20:58 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 18:43:43 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/8ZtH1V4rhrtP53ezlEWrCaMALXF.jpg" alt="Pet Sematary" /><br/>After the Creed family's cat is accidentally killed, a friendly neighbor advises its burial in a mysterious nearby cemetery.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/8ZtH1V4rhrtP53ezlEWrCaMALXF.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Sense and Sensibility</title>
+      <link>https://www.themoviedb.org/movie/1503762</link>
+      <guid isPermaLink="false">1503762</guid>
+      <pubDate>Wed, 07 Oct 2026 18:43:43 +0000</pubDate>
+      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg" alt="Sense and Sensibility" /><br/>Sisters Elinor and Marianne Dashwood must leave their Sussex estate and move in with a distant relative, facing romance and money troubles.]]></description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Wildwood</title>
       <link>https://www.themoviedb.org/movie/791523</link>
       <guid isPermaLink="false">791523</guid>
-      <pubDate>Wed, 07 Oct 2026 05:20:58 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 18:43:43 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg" alt="Wildwood" /><br/>Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue’s abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Fatherland</title>
-      <link>https://www.themoviedb.org/movie/1437696</link>
-      <guid isPermaLink="false">1437696</guid>
-      <pubDate>Wed, 07 Oct 2026 05:20:58 +0000</pubDate>
-      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/oNejN1l69nBF8LdQwy5FkAQZT44.jpg" alt="Fatherland" /><br/>In 1949, German writer Thomas Mann and his daughter Erika embark on a road trip across a Germany in ruins, from US-dominated Frankfurt to Soviet-controlled Weimar.]]></description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/oNejN1l69nBF8LdQwy5FkAQZT44.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Your Mother Your Mother Your Mother</title>
       <link>https://www.themoviedb.org/movie/1437396</link>
       <guid isPermaLink="false">1437396</guid>
-      <pubDate>Wed, 07 Oct 2026 05:20:58 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 18:43:43 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg" alt="Your Mother Your Mother Your Mother" /><br/>Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg" type="image/jpeg" />
     </item>
@@ -131,15 +123,23 @@
       <title>You Can See Everything</title>
       <link>https://www.themoviedb.org/movie/1765072</link>
       <guid isPermaLink="false">1765072</guid>
-      <pubDate>Wed, 07 Oct 2026 05:20:58 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 18:43:43 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/qhFWz1BsEMg5rcs6TAstmGQggMT.jpg" alt="You Can See Everything" /><br/>Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/qhFWz1BsEMg5rcs6TAstmGQggMT.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Fatherland</title>
+      <link>https://www.themoviedb.org/movie/1437696</link>
+      <guid isPermaLink="false">1437696</guid>
+      <pubDate>Wed, 07 Oct 2026 18:43:43 +0000</pubDate>
+      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/oNejN1l69nBF8LdQwy5FkAQZT44.jpg" alt="Fatherland" /><br/>In 1949, German writer Thomas Mann and his daughter Erika embark on a road trip across a Germany in ruins, from US-dominated Frankfurt to Soviet-controlled Weimar.]]></description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/oNejN1l69nBF8LdQwy5FkAQZT44.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>The Crow</title>
       <link>https://www.themoviedb.org/movie/9495</link>
       <guid isPermaLink="false">9495</guid>
-      <pubDate>Wed, 07 Oct 2026 05:20:58 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 18:43:43 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/rMMB3v6jYHjsvXRNJYESacoTD7j.jpg" alt="The Crow" /><br/>Exactly one year after young rock guitarist Eric Draven and his fiancée are brutally killed by a ruthless gang of criminals, Draven, watched over by a hypnotic crow, returns from the grave to exact revenge.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/rMMB3v6jYHjsvXRNJYESacoTD7j.jpg" type="image/jpeg" />
     </item>
@@ -147,25 +147,25 @@
       <title>On the Road</title>
       <link>https://www.themoviedb.org/movie/1517123</link>
       <guid isPermaLink="false">1517123</guid>
-      <pubDate>Wed, 07 Oct 2026 05:20:58 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 18:43:43 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/u169hcLX3OsM9eRs4wtIzi0ymGZ.jpg" alt="On the Road" /><br/>Veneno, a rebellious young drifter, frequents roadside diners where he sleeps with truck drivers. Urgently needing a ride, he meets Muñeco, a hard-edged driver who keeps to himself. He convinces Muñeco to take him deep into the hyper-masculine world of long-haul trucking across the north of Mexico. As they travel together and an unexpected intimacy builds between them, shadows from Veneno’s past resurface, putting both their lives at risk.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/u169hcLX3OsM9eRs4wtIzi0ymGZ.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Marie Antoinette</title>
-      <link>https://www.themoviedb.org/movie/1887</link>
-      <guid isPermaLink="false">1887</guid>
-      <pubDate>Wed, 07 Oct 2026 05:20:58 +0000</pubDate>
-      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/cybXGmv8Rjd5Os8Xml6YxMBQ0Zt.jpg" alt="Marie Antoinette" /><br/>A retelling of the story of France’s iconic but ill-fated queen, Marie Antoinette - from her betrothal and marriage to Louis XVI at fifteen to her reign as queen at nineteen and ultimately the fall of Versailles.]]></description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/cybXGmv8Rjd5Os8Xml6YxMBQ0Zt.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Wicker</title>
       <link>https://www.themoviedb.org/movie/1195803</link>
       <guid isPermaLink="false">1195803</guid>
-      <pubDate>Wed, 07 Oct 2026 05:20:58 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 18:43:43 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/eOYkNDalgt1v6UGjw3AoFR5qo9D.jpg" alt="Wicker" /><br/>On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/eOYkNDalgt1v6UGjw3AoFR5qo9D.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Marie Antoinette</title>
+      <link>https://www.themoviedb.org/movie/1887</link>
+      <guid isPermaLink="false">1887</guid>
+      <pubDate>Wed, 07 Oct 2026 18:43:43 +0000</pubDate>
+      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/cybXGmv8Rjd5Os8Xml6YxMBQ0Zt.jpg" alt="Marie Antoinette" /><br/>A retelling of the story of France’s iconic but ill-fated queen, Marie Antoinette - from her betrothal and marriage to Louis XVI at fifteen to her reign as queen at nineteen and ultimately the fall of Versailles.]]></description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/cybXGmv8Rjd5Os8Xml6YxMBQ0Zt.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
